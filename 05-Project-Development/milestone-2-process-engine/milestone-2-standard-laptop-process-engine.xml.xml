@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-09-27 15:00:26">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Milestone 2 - Configure the Standard Laptop catalog item to use the Standard laptop task flow.</description>
+<inserted/>
+<name>Standard Laptop Procurement - Milestone 2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>d59e501a936fc3506c72f1c65d03d65a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-27 15:00:25</sys_created_on>
+<sys_id>2c80acda936fc3506c72f1c65d03d62f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-27 15:00:25</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_04b7e94b4f7b4200086eeed18110c7fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;access_type/&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category display_value="Hardware"&gt;d258b953c611227a0146101fb1be7c31&lt;/category&gt;&lt;cc_render_type/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="font-size: medium;"&gt;x1 Carbon&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10.0pt;"&gt;The x1 Carbon is Lenovo&amp;#39;s lightest ThinkPad yet. It provides a QHD display that fights glare and weighs less than three pounds. Ideal for most computing tasks, and highly mobile. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10.0pt;"&gt;Technical Specs:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 10.0pt;"&gt;Intel core i5 processor&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10.0pt;"&gt;512GB solid state drive (SSD) &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 10.0pt;"&gt;Backlit keyboard&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow display_value="Standard laptop task"&gt;a9ab07c293e3c3506c72f1c65d03d630&lt;/flow_designer_flow&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;false&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Standard Laptop&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner/&gt;&lt;picture&gt;03e6ccc7779a11105e3db2a07b5a992b&lt;/picture&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=04b7e94b4f7b4200086eeed18110c7fd&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;830.0886&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency&gt;yearly&lt;/recurring_frequency&gt;&lt;recurring_price&gt;75.4626&lt;/recurring_price&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;sc_catalogs&gt;e0d08b13c3330100c8b837659bba8fb4&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;secondary_owners/&gt;&lt;short_description&gt;Lenovo - Carbon x1&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ryan.hale&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-11-22 18:39:29&lt;/sys_created_on&gt;&lt;sys_id&gt;04b7e94b4f7b4200086eeed18110c7fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;21&lt;/sys_mod_count&gt;&lt;sys_name&gt;Standard Laptop&lt;/sys_name&gt;&lt;sys_package display_value="Service Catalog core applications" source="com.glideapp.servicecatalog"&gt;d8857ef38c9503100a22deb6dd2b4ec2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_04b7e94b4f7b4200086eeed18110c7fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-27 14:57:58&lt;/sys_updated_on&gt;&lt;taxonomy_topic display_value="Computers"&gt;01a497a7c3053010069aec4b7d40dd14&lt;/taxonomy_topic&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;3&lt;/version&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=04b7e94b4f7b4200086eeed18110c7fd"/&gt;&lt;fx_price action="delete_multiple" query="id=04b7e94b4f7b4200086eeed18110c7fd"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;1100&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;04b7e94b4f7b4200086eeed18110c7fd&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;1100&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;ryan.hale&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-11-22 18:39:29&lt;/sys_created_on&gt;&lt;sys_id&gt;48b7e94b4f7b4200086eeed18110c7fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-27 14:41:44&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;100&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;04b7e94b4f7b4200086eeed18110c7fd&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;100&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;ryan.hale&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-11-22 18:39:30&lt;/sys_created_on&gt;&lt;sys_id&gt;c8b7e94b4f7b4200086eeed18110c7fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-27 14:41:44&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>395066518</payload_hash>
+<remote_update_set display_value="Standard Laptop Procurement - Milestone 2">2c80acda936fc3506c72f1c65d03d62f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-27 15:00:25</sys_created_on>
+<sys_id>6080acda936fc3506c72f1c65d03d630</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0e35f74970000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-27 15:00:25</sys_updated_on>
+<table/>
+<target_name>Standard Laptop</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>3cff5c9a896fc350591127a6003719b9</update_guid>
+<update_guid_history>3cff5c9a896fc350591127a6003719b9:395066518,9fdf589a886fc350bc7226aa3c8163db:1564086810,ba3c18d2046fc350313aa39d17a0dbd2:-735686508,2a3c18d2d86fc35075735cde2c56e1ad:599659866</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
