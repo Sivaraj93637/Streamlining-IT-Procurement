@@ -1,0 +1,39 @@
+PROJECT DEMONSTRATION DETAILS
+
+Project Title:
+Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
+
+Phase:
+08 - Project Demonstration
+
+Team Leader:
+Sivaraj
+
+Platform:
+ServiceNow
+
+Main Objective:
+To automate the standard laptop procurement process using ServiceNow Flow Designer.
+
+Demonstration Summary:
+The demonstration shows the workflow from ordering the Standard Laptop catalog item to approval, Requested Item creation, and automatic Catalog Task creation.
+
+Main Demonstration Steps:
+1. Introduction
+2. Problem Statement
+3. Open ServiceNow
+4. Show Flow Designer
+5. Show Service Catalog trigger
+6. Show Create Catalog Task
+7. Show Standard Laptop Process Engine configuration
+8. Order the laptop
+9. Show the request
+10. Approve the request
+11. Show Requested Item
+12. Show Catalog Task
+13. Explain automation
+14. Final result
+15. Closing
+
+Google Drive Access:
+Anyone with the link can view.
